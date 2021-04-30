@@ -6,12 +6,12 @@ name: Weijie Wei
 profile: /profile.jpg
 
 socials:
-  - title: Google scholar
-    icon: "/icons/google-scholar.svg"
-    link: https://scholar.google.com/citations?user=MmraYegAAAAJ&hl=en
   - title: github
     icon: "/icons/github.svg"
     link: https://github.com/codename1995
+  - title: Google scholar
+    icon: "/icons/google-scholar.svg"
+    link: https://scholar.google.com/citations?user=MmraYegAAAAJ&hl=en
   #- title: linkedin
   #  icon: "/icons/linkedin-mono.svg"
   #  link: https://www.linkedin.com
@@ -19,7 +19,7 @@ socials:
   #  icon: "/icons/instagram-mono.svg"
   #  link: https://www.instagram.com
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
+cv: https://codename1995.github.io 
 bio: PhD student @ University of Amsterdam
 email: firstname dot lastname at uva dot nl
 ---
@@ -28,7 +28,7 @@ email: firstname dot lastname at uva dot nl
 
 ## About Me
 
-I am a PhD candidate at [University of Amsterdam](https://www.uva.nl/en/) in the Netherlands, supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/). Besides my advisor, I am so fortunate to have the opportunity of discussing research problems with [Dr. Fatemeh Karimi Nejadasl](http://www.fkariminejadasl.nl/) and [Deyvid Kochanov]() from [TOMTOM](https://www.tomtom.com/nl_nl/). Before that, I obtained my Master's degree under the supervision of [Prof. dr. Zhi Liu](http://www.ivp.shu.edu.cn/).
+I am a PhD candidate at [University of Amsterdam](https://www.uva.nl/en/), supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/). Also, I am so fortunate to have the opportunity of discussing research problems with [Dr. Fatemeh Karimi Nejadasl](http://www.fkariminejadasl.nl/) and [Deyvid Kochanov]() from [TOMTOM](https://www.tomtom.com/nl_nl/). Before that, I obtained my Master's degree under the supervision of [Prof. dr. Zhi Liu](http://www.ivp.shu.edu.cn/).
 
 I focus on **point cloud** and **semantic segmentation**. I also have a background in other computer vision fields, including visual attention modeling, saliency prediction and object segmentation.
 
@@ -41,27 +41,28 @@ I focus on **point cloud** and **semantic segmentation**. I also have a backgrou
 - **[07/2019]** Won the winner award of [Saliency4ASD](https://saliency4asd.ls2n.fr/) (Grand Challenge of ICME 2019)
 
 ## Publications
-[9] R. Shi, G. Li, **W. Wei**, X. Zhou*, Z. Liu, "Personalized image observation behavior learning in fixation based personalized salient object segmentation," *Neurocomputing*, vol. 445, pp. 255-266, Jul. 2021. <br/>
-[8] Z. Wang, Z. Liu*, **W. Wei**, H. Duan, "SalED: Saliency Prediction via Encoder-Decoder Neural Networks," *Image and Vision Computing*, vol. 109, pp. 104149, May, 2021. <br/>
-[7] **W. Wei**, Z. Liu, L. Huang, Z. Wang, W. Chen, T. Zhang, J. Wang, and L. Xu, "Identify autism spectrum disorder via dynamic filter and deep spatiotemporal feature extraction," *Signal Processing: Image Communication*, vol. 94, pp. 116195, May. 2021.  <br/>
-[6] G. Li, Z. Liu*, R. Shi, Z. Hu, **W. Wei**, and H. Ling, "Personal fixations-based object segmentation with object localization and boundary preservation," *IEEE Transaction on Image Processing*, vol. 30, pp. 1461-1475, Dec. 2020. <br/>
-[5] L. Huang, **W. Wei**, Z. Liu*, T. Zhang, J. Wang, L. Xu, W. Chen, and O. Le Meur, "Effective schizophrenia recognition using discriminative eye movement features and model-metric based features," *Pattern Recognition Letters*, vol. 138, pp. 608-616, Oct. 2020. <br/>
-[4] **W. Wei**, Z. Liu*, L. Huang, A. Nebout, O. Le Meur, T. Zhang, J. Wang, and L. Xu, "Predicting atypical visual saliency for autism spectrum disorder via scale-adaptive inception module and discriminative region enhancement loss," *Neurocomputing*, Sep. 2020. [Preprint] <br/>
-[3] G. Li, Z. Liu*, R. Shi, and **W. Wei**, "Constrained fixation point based segmentation via deep neural network," *Neurocomputing*, vol. 368, pp. 180-187, Nov. 2019. <br/>
-[2] **W. Wei**, Z. Liu*, L. Huang, A. Nebout, and O. Le Meur, "Saliency prediction via multi-level features and deep supervision for children with autism spectrum disorder," *presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW)*, Jul. 2019. [Poster].  <br/>
-[1] A. Nebout, **W. Wei**, Z. Liu*, L. Huang, and O. Le Meur, "Predicting saliency maps for ASD People," presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW), Jul. 2019. [Poster]. <br/>
+
+[9] R. Shi, G. Li, **W. Wei**, X. Zhou, Z. Liu, "Personalized image observation behavior learning in fixation based personalized salient object segmentation," *Neurocomputing*, vol. 445, pp. 255-266, Jul. 2021. <br/>
+[8] Z. Wang, Z. Liu, **W. Wei**, H. Duan, "SalED: Saliency Prediction via Encoder-Decoder Neural Networks," *Image and Vision Computing*, vol. 109, pp. 104149, May, 2021. <br/>
+[7] **W. Wei**, Z. Liu, L. Huang, Z. Wang, W. Chen, T. Zhang, J. Wang, and L. Xu, "Identify autism spectrum disorder via dynamic filter and deep spatiotemporal feature extraction," *Signal Processing: Image Communication*, vol. 94, pp. 116195, May. 2021. <br/>
+[6] G. Li, Z. Liu, R. Shi, Z. Hu, **W. Wei**, and H. Ling, "Personal fixations-based object segmentation with object localization and boundary preservation," *IEEE Transaction on Image Processing*, vol. 30, pp. 1461-1475, Dec. 2020. <br/>
+[5] L. Huang, **W. Wei**, Z. Liu, T. Zhang, J. Wang, L. Xu, W. Chen, and O. Le Meur, "Effective schizophrenia recognition using discriminative eye movement features and model-metric based features," *Pattern Recognition Letters*, vol. 138, pp. 608-616, Oct. 2020.  <br/>
+[4] **W. Wei**, Z. Liu, L. Huang, A. Nebout, O. Le Meur, T. Zhang, J. Wang, and L. Xu, "Predicting atypical visual saliency for autism spectrum disorder via scale-adaptive inception module and discriminative region enhancement loss," *Neurocomputing*, Sep. 2020. [Preprint] <br/>
+[3] G. Li, Z. Liu, R. Shi, and **W. Wei**, "Constrained fixation point based segmentation via deep neural network," *Neurocomputing*, vol. 368, pp. 180-187, Nov. 2019. <br/>
+[2] **W. Wei**, Z. Liu, L. Huang, A. Nebout, and O. Le Meur, "Saliency prediction via multi-level features and deep supervision for children with autism spectrum disorder," *presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW)*, Jul. 2019. [Poster]. <br/>
+[1] A. Nebout, **W. Wei**, Z. Liu, L. Huang, and O. Le Meur, "Predicting saliency maps for ASD People," presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW), Jul. 2019. [Poster]. <br/>
 
 
 ## Education & Experiences
 
-- **PhD student** in Computer Science. <br/>
-University of Amsterdam. Apr. 2021 - present
+- **PhD student** in Computer Science <br/>
+Apr. 2021 - present. **University of Amsterdam** <br/>
 
 - **M. Eng.** in Signals and Information Processing. <br/>
-Shanghai University. Sep. 2018 - Mar. 2021
+Sep. 2018 - Mar. 2021. **Shanghai University** <br/>
 
 - **B. Eng.** in Communication Engineering. <br/>
-Shanghai University. Sep. 2014 - Jul. 2018
+Sep. 2014 - Jul. 2018.  **Shanghai University** <br/>
 
 <!--
 ## Projects
@@ -105,7 +106,7 @@ Shanghai University. Sep. 2014 - Jul. 2018
 
 - [07/2019] Champion of the ICME2019 Grand Challenge -- Saliency4ASD Track 1
 - [12/2018] Our team (Guangjin Pan, Chuxuan Cheng and Weijie Wei) won the second prize of China Post-Graduate Mathematical Contest in Modeling
-- [11/2016] Our team (Jinxue Liu, Zhiming Yi and Weijie Wei) won the first prize of the National Undergraduate Electronic Design Contest (Shanghai region)
+- [11/2016] Our team (Jinxue Liu, Zhiming Yi and Weijie Wei) won the first prize of the National Undergraduate Electronic Design Contest (Shanghai division)
 
 <!-- Custom style for this page -->
 
