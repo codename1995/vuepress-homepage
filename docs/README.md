@@ -7,7 +7,7 @@ profile: /profile.jpg
 
 socials:
   - title: Google scholar
-    icon: "/icons/google_scholar.png"
+    icon: "/icons/google-scholar.svg"
     link: https://scholar.google.com/citations?user=MmraYegAAAAJ&hl=en
   - title: github
     icon: "/icons/github.svg"
