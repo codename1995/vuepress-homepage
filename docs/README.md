@@ -2,19 +2,22 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Weijie Wei
 profile: /profile.jpg
 
 socials:
+  - title: Google scholar
+    icon: "/icons/google_scholar.png"
+    link: https://scholar.google.com/citations?user=MmraYegAAAAJ&hl=en
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
-  - title: linkedin
-    icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://github.com/codename1995
+  #- title: linkedin
+  #  icon: "/icons/linkedin-mono.svg"
+  #  link: https://www.linkedin.com
+  #- title: instagram
+  #  icon: "/icons/instagram-mono.svg"
+  #  link: https://www.instagram.com
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: Student at Hogwarts School
