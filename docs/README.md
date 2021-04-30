@@ -112,7 +112,7 @@ Shanghai University. Sep. 2014 - Jul. 2018
 <style lang="stylus">
 
 .theme-container.home-page .page
-  font-size 18px
+  font-size 16px
   font-family "lucida grande", "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, sans-serif;
   p
     margin 0 0 0.5rem
