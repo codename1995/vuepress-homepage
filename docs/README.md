@@ -41,15 +41,15 @@ I focus on **point cloud** and **semantic segmentation**. I also have a backgrou
 - **[07/2019]** Won the winner award of [Saliency4ASD](https://saliency4asd.ls2n.fr/) (Grand Challenge of ICME 2019)
 
 ## Publications
-[9] R. Shi, G. Li, **W. Wei**, X. Zhou*, Z. Liu, "Personalized image observation behavior learning in fixation based personalized salient object segmentation," *Neurocomputing*, vol. 445, pp. 255-266, Jul. 2021.
-[8] Z. Wang, Z. Liu*, **W. Wei**, H. Duan, "SalED: Saliency Prediction via Encoder-Decoder Neural Networks," *Image and Vision Computing*, vol. 109, pp. 104149, May, 2021.
-[7] **W. Wei**, Z. Liu, L. Huang, Z. Wang, W. Chen, T. Zhang, J. Wang, and L. Xu, "Identify autism spectrum disorder via dynamic filter and deep spatiotemporal feature extraction," *Signal Processing: Image Communication*, vol. 94, pp. 116195, May. 2021. 
-[6] G. Li, Z. Liu*, R. Shi, Z. Hu, **W. Wei**, and H. Ling, "Personal fixations-based object segmentation with object localization and boundary preservation," *IEEE Transaction on Image Processing*, vol. 30, pp. 1461-1475, Dec. 2020.
-[5] L. Huang, **W. Wei**, Z. Liu*, T. Zhang, J. Wang, L. Xu, W. Chen, and O. Le Meur, "Effective schizophrenia recognition using discriminative eye movement features and model-metric based features," *Pattern Recognition Letters*, vol. 138, pp. 608-616, Oct. 2020.
-[4] **W. Wei**, Z. Liu*, L. Huang, A. Nebout, O. Le Meur, T. Zhang, J. Wang, and L. Xu, "Predicting atypical visual saliency for autism spectrum disorder via scale-adaptive inception module and discriminative region enhancement loss," *Neurocomputing*, Sep. 2020. [Preprint]
-[3] G. Li, Z. Liu*, R. Shi, and **W. Wei**, "Constrained fixation point based segmentation via deep neural network," *Neurocomputing*, vol. 368, pp. 180-187, Nov. 2019.
-[2] **W. Wei**, Z. Liu*, L. Huang, A. Nebout, and O. Le Meur, "Saliency prediction via multi-level features and deep supervision for children with autism spectrum disorder," *presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW)*, Jul. 2019. [Poster]. 
-[1] A. Nebout, **W. Wei**, Z. Liu*, L. Huang, and O. Le Meur, "Predicting saliency maps for ASD People," presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW), Jul. 2019. [Poster].
+[9] R. Shi, G. Li, **W. Wei**, X. Zhou*, Z. Liu, "Personalized image observation behavior learning in fixation based personalized salient object segmentation," *Neurocomputing*, vol. 445, pp. 255-266, Jul. 2021. <br/>
+[8] Z. Wang, Z. Liu*, **W. Wei**, H. Duan, "SalED: Saliency Prediction via Encoder-Decoder Neural Networks," *Image and Vision Computing*, vol. 109, pp. 104149, May, 2021. <br/>
+[7] **W. Wei**, Z. Liu, L. Huang, Z. Wang, W. Chen, T. Zhang, J. Wang, and L. Xu, "Identify autism spectrum disorder via dynamic filter and deep spatiotemporal feature extraction," *Signal Processing: Image Communication*, vol. 94, pp. 116195, May. 2021.  <br/>
+[6] G. Li, Z. Liu*, R. Shi, Z. Hu, **W. Wei**, and H. Ling, "Personal fixations-based object segmentation with object localization and boundary preservation," *IEEE Transaction on Image Processing*, vol. 30, pp. 1461-1475, Dec. 2020. <br/>
+[5] L. Huang, **W. Wei**, Z. Liu*, T. Zhang, J. Wang, L. Xu, W. Chen, and O. Le Meur, "Effective schizophrenia recognition using discriminative eye movement features and model-metric based features," *Pattern Recognition Letters*, vol. 138, pp. 608-616, Oct. 2020. <br/>
+[4] **W. Wei**, Z. Liu*, L. Huang, A. Nebout, O. Le Meur, T. Zhang, J. Wang, and L. Xu, "Predicting atypical visual saliency for autism spectrum disorder via scale-adaptive inception module and discriminative region enhancement loss," *Neurocomputing*, Sep. 2020. [Preprint] <br/>
+[3] G. Li, Z. Liu*, R. Shi, and **W. Wei**, "Constrained fixation point based segmentation via deep neural network," *Neurocomputing*, vol. 368, pp. 180-187, Nov. 2019. <br/>
+[2] **W. Wei**, Z. Liu*, L. Huang, A. Nebout, and O. Le Meur, "Saliency prediction via multi-level features and deep supervision for children with autism spectrum disorder," *presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW)*, Jul. 2019. [Poster].  <br/>
+[1] A. Nebout, **W. Wei**, Z. Liu*, L. Huang, and O. Le Meur, "Predicting saliency maps for ASD People," presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW), Jul. 2019. [Poster]. <br/>
 
 
 ## Education & Experiences
@@ -112,7 +112,7 @@ Shanghai University. Sep. 2014 - Jul. 2018
 <style lang="stylus">
 
 .theme-container.home-page .page
-  font-size 14px
+  font-size 18px
   font-family "lucida grande", "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, sans-serif;
   p
     margin 0 0 0.5rem
