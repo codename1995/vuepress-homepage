@@ -34,7 +34,7 @@ I focus on **point cloud** and **semantic segmentation**. I also have a backgrou
 
 ## News
 
-- **[04/2021]** Settled in Amsterdam, the Netherlands.
+- **[04/2021]** I join in the [ATLAS Lab](https://icai.ai/atlas-lab/) and settle in Amsterdam, the Netherlands.
 - **[02/2021]** One paper got accepted to Signal processing: Image communication.
 - **[10/2020]** I am granted the **National Scholarship**.
 - **[06/2020]** One paper got accepted to Neurocomputing.
