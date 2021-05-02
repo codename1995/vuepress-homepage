@@ -50,7 +50,7 @@ I focus on **point cloud** and **semantic segmentation**. I also have a backgrou
 [4] **W. Wei**, Z. Liu, L. Huang, A. Nebout, O. Le Meur, T. Zhang, J. Wang, and L. Xu, "Predicting atypical visual saliency for autism spectrum disorder via scale-adaptive inception module and discriminative region enhancement loss," *Neurocomputing*, Sep. 2020. [Preprint] <br/>
 [3] G. Li, Z. Liu, R. Shi, and **W. Wei**, "Constrained fixation point based segmentation via deep neural network," *Neurocomputing*, vol. 368, pp. 180-187, Nov. 2019. <br/>
 [2] **W. Wei**, Z. Liu, L. Huang, A. Nebout, and O. Le Meur, "Saliency prediction via multi-level features and deep supervision for children with autism spectrum disorder," *presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW)*, Jul. 2019. [Poster]. <br/>
-[1] A. Nebout, **W. Wei**, Z. Liu, L. Huang, and O. Le Meur, "Predicting saliency maps for ASD People," presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW), Jul. 2019. [Poster]. <br/>
+[1] A. Nebout, **W. Wei**, Z. Liu, L. Huang, and O. Le Meur, "Predicting saliency maps for ASD People," *presented at IEEE Int. Conf. on Multimedia \& Expo Workshops (ICMEW)*, Jul. 2019. [Poster]. <br/>
 
 
 ## Education & Experiences
