@@ -28,7 +28,7 @@ email: firstname dot lastname at uva dot nl
 
 ## About Me
 
-I am a PhD candidate at [University of Amsterdam](https://www.uva.nl/en/), supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/). Also, I am so fortunate to have the opportunity of discussing research problems with [Dr. Fatemeh Karimi Nejadasl](http://www.fkariminejadasl.nl/) and [Deyvid Kochanov]() from [TOMTOM](https://www.tomtom.com/nl_nl/). Before that, I obtained my Master's degree under the supervision of [Prof. dr. Zhi Liu](http://www.ivp.shu.edu.cn/).
+I am a PhD candidate at [University of Amsterdam](https://www.uva.nl/en/), supervised by [Prof. dr. Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/). Also, I am so fortunate to have the opportunity of discussing research problems with [Dr. Fatemeh Karimi Nejadasl](https://www.linkedin.com/in/fkariminejadasl/) and [Deyvid Kochanov](https://www.linkedin.com/in/deyvid-kochanov-688ba610b/) from [TOMTOM](https://www.tomtom.com/nl_nl/). Before that, I obtained my Master's degree under the supervision of [Prof. dr. Zhi Liu](http://www.ivp.shu.edu.cn/).
 
 I focus on **point cloud** and **semantic segmentation**. I also have a background in other computer vision fields, including visual attention modeling, saliency prediction and object segmentation.
 
