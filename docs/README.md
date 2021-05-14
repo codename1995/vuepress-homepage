@@ -42,6 +42,7 @@ I focus on **point cloud** and **semantic segmentation**. I also have a backgrou
 
 ## Publications
 
+[10] R. Shi, G. Li, W. Wei, Z. Liu, "Fixations based personal target objects segmentation," *ACM Internation conference on Multimedia in Asia,", Mar. 2021.
 [9] R. Shi, G. Li, **W. Wei**, X. Zhou, Z. Liu, "Personalized image observation behavior learning in fixation based personalized salient object segmentation," *Neurocomputing*, vol. 445, pp. 255-266, Jul. 2021. <br/>
 [8] Z. Wang, Z. Liu, **W. Wei**, H. Duan, "SalED: Saliency Prediction via Encoder-Decoder Neural Networks," *Image and Vision Computing*, vol. 109, pp. 104149, May, 2021. <br/>
 [7] **W. Wei**, Z. Liu, L. Huang, Z. Wang, W. Chen, T. Zhang, J. Wang, and L. Xu, "Identify autism spectrum disorder via dynamic filter and deep spatiotemporal feature extraction," *Signal Processing: Image Communication*, vol. 94, pp. 116195, May. 2021. <br/>
@@ -55,7 +56,7 @@ I focus on **point cloud** and **semantic segmentation**. I also have a backgrou
 
 ## Education & Experiences
 
-- **PhD student** in Computer Science <br/>
+- **PhD student** in Computer Science. <br/>
 Apr. 2021 - present. **University of Amsterdam** <br/>
 
 - **M. Eng.** in Signals and Information Processing. <br/>
